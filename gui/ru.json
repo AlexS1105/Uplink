@@ -1,0 +1,26 @@
+{
+  "mainMenu": {
+    "state": "В Межразломье",
+    "largeImageText": "Межразломье"
+  },
+  "loadingGame": {
+    "state": "Загрузка...",
+    "largeImageText": "Theseus",
+    "details": "С %d модов"
+  },
+  "inGame": {
+    "multiPlayer": {
+      "largeImageText": {
+        "unknown": "Неизвестный Ярус",
+        "ip": "IP: %s"
+      },
+      "state": "На Полотне",
+      "details": "Персонаж: %s"
+    },
+    "singlePlayer": {
+      "state": "Где-то в Пустоте",
+      "largeImageText": "Мир: %s",
+      "details": "Ник: %s"
+    }
+  }
+}
