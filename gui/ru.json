@@ -5,8 +5,8 @@
   },
   "loadingGame": {
     "state": "Загрузка...",
-    "largeImageText": "Theseus",
-    "details": "С %d модов"
+    "largeImageText": "Тесей",
+    "details": "Грузим аж %d модов!"
   },
   "inGame": {
     "multiPlayer": {
